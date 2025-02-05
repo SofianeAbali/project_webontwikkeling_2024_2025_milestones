@@ -4,7 +4,7 @@
     "mileage": 45000,
     "active": true,
     "productionDate": "2018-04-10",
-    "imageUrl": "https://example.com/cars/audi_a4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/audi_a4.jpg",
     "carType": "sedan",
     "features": ["leren bekleding", "panoramisch dak", "navigatiesysteem"],
     "manufacturer": {
@@ -22,7 +22,7 @@
     "mileage": 32000,
     "active": true,
     "productionDate": "2019-07-15",
-    "imageUrl": "https://example.com/cars/bmw_3series.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/bmw_3series.jpg",
     "carType": "sedan",
     "features": ["sportstoelen", "LED-verlichting", "geavanceerde veiligheidssystemen"],
     "manufacturer": {
@@ -40,7 +40,7 @@
     "mileage": 28000,
     "active": true,
     "productionDate": "2020-02-20",
-    "imageUrl": "https://example.com/cars/mercedes_cclass.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/mercedes_cclass.jpg",
     "carType": "sedan",
     "features": ["luxe interieur", "veiligheidspakket", "connectiviteit"],
     "manufacturer": {
@@ -58,7 +58,7 @@
     "mileage": 38000,
     "active": false,
     "productionDate": "2017-09-05",
-    "imageUrl": "https://example.com/cars/vw_golf.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/vw_golf.jpg",
     "carType": "hatchback",
     "features": ["eco-friendly", "compact design", "innovatieve technologie"],
     "manufacturer": {
@@ -76,7 +76,7 @@
     "mileage": 22000,
     "active": true,
     "productionDate": "2021-05-30",
-    "imageUrl": "https://example.com/cars/ford_mustang.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/ford_mustang.jpg",
     "carType": "coupé",
     "features": ["v8-motor", "sportieve vering", "high-performance remmen"],
     "manufacturer": {
@@ -94,7 +94,7 @@
     "mileage": 35000,
     "active": false,
     "productionDate": "2016-11-22",
-    "imageUrl": "https://example.com/cars/chevrolet_camaro.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/chevrolet_camaro.jpg",
     "carType": "coupé",
     "features": ["krachtige motor", "aerodynamisch design", "geavanceerd infotainmentsysteem"],
     "manufacturer": {
@@ -112,7 +112,7 @@
     "mileage": 15000,
     "active": true,
     "productionDate": "2022-03-18",
-    "imageUrl": "https://example.com/cars/tesla_model3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/tesla_model3.jpg",
     "carType": "sedan",
     "features": ["elektrisch", "autopilot", "minimalistisch design"],
     "manufacturer": {
@@ -130,7 +130,7 @@
     "mileage": 50000,
     "active": true,
     "productionDate": "2015-08-12",
-    "imageUrl": "https://example.com/cars/honda_civic.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/honda_civic.jpg",
     "carType": "sedan",
     "features": ["brandstofefficiënt", "ruim interieur", "geavanceerde veiligheidssystemen"],
     "manufacturer": {
@@ -148,7 +148,7 @@
     "mileage": 60000,
     "active": false,
     "productionDate": "2014-06-25",
-    "imageUrl": "https://example.com/cars/toyota_corolla.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/toyota_corolla.jpg",
     "carType": "sedan",
     "features": ["betrouwbaar", "economisch", "veiligheidsvoorzieningen"],
     "manufacturer": {
@@ -166,7 +166,7 @@
     "mileage": 18000,
     "active": true,
     "productionDate": "2020-12-05",
-    "imageUrl": "https://example.com/cars/porsche_911.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/porsche_911.jpg",
     "carType": "coupé",
     "features": ["hoogwaardige afwerking", "tweezits coupé", "geavanceerde aerodynamica"],
     "manufacturer": {
