@@ -1,0 +1,179 @@
+{"id": 1,
+    "model": "Audi A4",
+    "description": "Een luxe sedan met uitstekende prestaties, verfijnd design en geavanceerde technologieën voor een comfortabele rijervaring.",
+    "mileage": 45000,
+    "active": true,
+    "productionDate": "2018-04-10",
+    "imageUrl": "https://example.com/cars/audi_a4.jpg",
+    "carType": "sedan",
+    "features": ["leren bekleding", "panoramisch dak", "navigatiesysteem"],
+    "manufacturer": {
+      "id": 101,
+      "name": "Audi",
+      "founded": 1909,
+      "logoUrl": "https://example.com/manufacturers/audi.png",
+      "isEuropean": true
+    }
+  }
+  {
+    "id": 2,
+    "model": "BMW 3 Series",
+    "description": "Een dynamische en sportieve auto die bekend staat om zijn precisie-engineering en rijplezier.",
+    "mileage": 32000,
+    "active": true,
+    "productionDate": "2019-07-15",
+    "imageUrl": "https://example.com/cars/bmw_3series.jpg",
+    "carType": "sedan",
+    "features": ["sportstoelen", "LED-verlichting", "geavanceerde veiligheidssystemen"],
+    "manufacturer": {
+      "id": 102,
+      "name": "BMW",
+      "founded": 1916,
+      "logoUrl": "https://example.com/manufacturers/bmw.png",
+      "isEuropean": true
+    }
+  },
+  {
+    "id": 3,
+    "model": "Mercedes-Benz C-Class",
+    "description": "Een elegante en comfortabele auto die perfect is voor zowel zakelijk als privégebruik.",
+    "mileage": 28000,
+    "active": true,
+    "productionDate": "2020-02-20",
+    "imageUrl": "https://example.com/cars/mercedes_cclass.jpg",
+    "carType": "sedan",
+    "features": ["luxe interieur", "veiligheidspakket", "connectiviteit"],
+    "manufacturer": {
+      "id": 103,
+      "name": "Mercedes-Benz",
+      "founded": 1926,
+      "logoUrl": "https://example.com/manufacturers/mercedes.png",
+      "isEuropean": true
+    }
+  },
+  {
+    "id": 4,
+    "model": "Volkswagen Golf",
+    "description": "Een compacte hatchback met een uitstekende balans tussen efficiëntie en rijplezier, ideaal voor stedelijk gebruik.",
+    "mileage": 38000,
+    "active": false,
+    "productionDate": "2017-09-05",
+    "imageUrl": "https://example.com/cars/vw_golf.jpg",
+    "carType": "hatchback",
+    "features": ["eco-friendly", "compact design", "innovatieve technologie"],
+    "manufacturer": {
+      "id": 104,
+      "name": "Volkswagen",
+      "founded": 1937,
+      "logoUrl": "https://example.com/manufacturers/vw.png",
+      "isEuropean": true
+    }
+  },
+  {
+    "id": 5,
+    "model": "Ford Mustang",
+    "description": "Een iconische sportwagen die kracht en stijl combineert, met een krachtige motor en een agressief design.",
+    "mileage": 22000,
+    "active": true,
+    "productionDate": "2021-05-30",
+    "imageUrl": "https://example.com/cars/ford_mustang.jpg",
+    "carType": "coupé",
+    "features": ["v8-motor", "sportieve vering", "high-performance remmen"],
+    "manufacturer": {
+      "id": 105,
+      "name": "Ford",
+      "founded": 1903,
+      "logoUrl": "https://example.com/manufacturers/ford.png",
+      "isEuropean": false
+    }
+  },
+  {
+    "id": 6,
+    "model": "Chevrolet Camaro",
+    "description": "Een robuuste sportwagen met opvallende lijnen en indrukwekkende prestaties, ontworpen voor snelheid en kracht.",
+    "mileage": 35000,
+    "active": false,
+    "productionDate": "2016-11-22",
+    "imageUrl": "https://example.com/cars/chevrolet_camaro.jpg",
+    "carType": "coupé",
+    "features": ["krachtige motor", "aerodynamisch design", "geavanceerd infotainmentsysteem"],
+    "manufacturer": {
+      "id": 106,
+      "name": "Chevrolet",
+      "founded": 1911,
+      "logoUrl": "https://example.com/manufacturers/chevrolet.png",
+      "isEuropean": false
+    }
+  },
+  {
+    "id": 7,
+    "model": "Tesla Model 3",
+    "description": "Een elektrische auto die innovatie en duurzaamheid combineert, met een futuristisch interieur en geavanceerde technologie.",
+    "mileage": 15000,
+    "active": true,
+    "productionDate": "2022-03-18",
+    "imageUrl": "https://example.com/cars/tesla_model3.jpg",
+    "carType": "sedan",
+    "features": ["elektrisch", "autopilot", "minimalistisch design"],
+    "manufacturer": {
+      "id": 107,
+      "name": "Tesla",
+      "founded": 2003,
+      "logoUrl": "https://example.com/manufacturers/tesla.png",
+      "isEuropean": false
+    }
+  },
+  {
+    "id": 8,
+    "model": "Honda Civic",
+    "description": "Een betrouwbare en efficiënte auto die bekend staat om zijn duurzaamheid en zuinig brandstofverbruik.",
+    "mileage": 50000,
+    "active": true,
+    "productionDate": "2015-08-12",
+    "imageUrl": "https://example.com/cars/honda_civic.jpg",
+    "carType": "sedan",
+    "features": ["brandstofefficiënt", "ruim interieur", "geavanceerde veiligheidssystemen"],
+    "manufacturer": {
+      "id": 108,
+      "name": "Honda",
+      "founded": 1948,
+      "logoUrl": "https://example.com/manufacturers/honda.png",
+      "isEuropean": false
+    }
+  },
+  {
+    "id": 9,
+    "model": "Toyota Corolla",
+    "description": "Een populaire compacte auto die betrouwbaarheid en comfort biedt, perfect voor dagelijks gebruik.",
+    "mileage": 60000,
+    "active": false,
+    "productionDate": "2014-06-25",
+    "imageUrl": "https://example.com/cars/toyota_corolla.jpg",
+    "carType": "sedan",
+    "features": ["betrouwbaar", "economisch", "veiligheidsvoorzieningen"],
+    "manufacturer": {
+      "id": 109,
+      "name": "Toyota",
+      "founded": 1937,
+      "logoUrl": "https://example.com/manufacturers/toyota.png",
+      "isEuropean": false
+    }
+  },
+  {
+    "id": 10,
+    "model": "Porsche 911",
+    "description": "Een iconische sportwagen die uitblinkt in prestaties en luxe, met een tijdloos design en precisie-engineering.",
+    "mileage": 18000,
+    "active": true,
+    "productionDate": "2020-12-05",
+    "imageUrl": "https://example.com/cars/porsche_911.jpg",
+    "carType": "coupé",
+    "features": ["hoogwaardige afwerking", "tweezits coupé", "geavanceerde aerodynamica"],
+    "manufacturer": {
+      "id": 110,
+      "name": "Porsche",
+      "founded": 1931,
+      "logoUrl": "https://example.com/manufacturers/porsche.png",
+      "isEuropean": true
+    }
+  }

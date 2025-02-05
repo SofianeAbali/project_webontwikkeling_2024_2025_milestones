@@ -1,0 +1,27 @@
+{"id": 101,
+      "name": "Audi",
+      "founded": 1909,
+      "logoUrl": "https://example.com/manufacturers/audi.png",
+      "isEuropean": true
+},
+{
+    "id": 102,
+      "name": "BMW",
+      "founded": 1916,
+      "logoUrl": "https://example.com/manufacturers/bmw.png",
+      "isEuropean": true
+},
+{
+      "id": 103,
+      "name": "Mercedes-Benz",
+      "founded": 1926,
+      "logoUrl": "https://example.com/manufacturers/mercedes.png",
+      "isEuropean": true
+},
+{
+      "id": 104,
+      "name": "Volkswagen",
+      "founded": 1937,
+      "logoUrl": "https://example.com/manufacturers/vw.png",
+      "isEuropean": true
+}
