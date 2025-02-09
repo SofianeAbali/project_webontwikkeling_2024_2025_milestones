@@ -1,4 +1,4 @@
-{"id": 101,
+[{"id": 101,
       "name": "Audi",
       "founded": 1909,
       "logoUrl": "https://example.com/manufacturers/audi.png",
@@ -24,4 +24,12 @@
       "founded": 1937,
       "logoUrl": "https://example.com/manufacturers/vw.png",
       "isEuropean": true
+},
+{
+      "id": 106,
+      "name": "Chevrolet",
+      "founded": 1911,
+      "logoUrl": "https://example.com/manufacturers/chevrolet.png",
+      "isEuropean": false
 }
+]

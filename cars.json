@@ -1,4 +1,5 @@
-{"id": 1,
+[
+  {"id": 1,
     "model": "Audi A4",
     "description": "Een luxe sedan met uitstekende prestaties, verfijnd design en geavanceerde technologieën voor een comfortabele rijervaring.",
     "mileage": 45000,
@@ -14,7 +15,7 @@
       "logoUrl": "https://example.com/manufacturers/audi.png",
       "isEuropean": true
     }
-  }
+  },
   {
     "id": 2,
     "model": "BMW 3 Series",
@@ -177,3 +178,4 @@
       "isEuropean": true
     }
   }
+]
