@@ -5,14 +5,14 @@
     "mileage": 45000,
     "active": true,
     "productionDate": "2018-04-10",
-    "imageUrl": ,
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/Audi-a4.jpg",
     "carType": "sedan",
     "features": ["leren bekleding", "panoramisch dak", "navigatiesysteem"],
     "manufacturer": {
       "id": 101,
       "name": "Audi",
       "founded": 1909,
-      "logoUrl": "https://example.com/manufacturers/audi.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/audi-logo.jpg",
       "isEuropean": true
     }
   },
@@ -23,14 +23,14 @@
     "mileage": 32000,
     "active": true,
     "productionDate": "2019-07-15",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/bmw_3series.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/bmw-3-series.jpg",
     "carType": "sedan",
     "features": ["sportstoelen", "LED-verlichting", "geavanceerde veiligheidssystemen"],
     "manufacturer": {
       "id": 102,
       "name": "BMW",
       "founded": 1916,
-      "logoUrl": "https://example.com/manufacturers/bmw.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/bmw-logo.jpg",
       "isEuropean": true
     }
   },
@@ -41,14 +41,14 @@
     "mileage": 28000,
     "active": true,
     "productionDate": "2020-02-20",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/mercedes_cclass.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/Mercedes-c-klasse.jpg",
     "carType": "sedan",
     "features": ["luxe interieur", "veiligheidspakket", "connectiviteit"],
     "manufacturer": {
       "id": 103,
       "name": "Mercedes-Benz",
       "founded": 1926,
-      "logoUrl": "https://example.com/manufacturers/mercedes.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/Mercedes-logo.jpg",
       "isEuropean": true
     }
   },
@@ -59,14 +59,14 @@
     "mileage": 38000,
     "active": false,
     "productionDate": "2017-09-05",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/vw_golf.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/volkswagen-golf.jpg",
     "carType": "hatchback",
     "features": ["eco-friendly", "compact design", "innovatieve technologie"],
     "manufacturer": {
       "id": 104,
       "name": "Volkswagen",
       "founded": 1937,
-      "logoUrl": "https://example.com/manufacturers/vw.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/volkswagen-logo.jpg",
       "isEuropean": true
     }
   },
@@ -77,14 +77,14 @@
     "mileage": 22000,
     "active": true,
     "productionDate": "2021-05-30",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/ford_mustang.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/ford-mustang.jpg",
     "carType": "coupé",
     "features": ["v8-motor", "sportieve vering", "high-performance remmen"],
     "manufacturer": {
       "id": 105,
       "name": "Ford",
       "founded": 1903,
-      "logoUrl": "https://example.com/manufacturers/ford.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/ford.png",
       "isEuropean": false
     }
   },
@@ -95,14 +95,14 @@
     "mileage": 35000,
     "active": false,
     "productionDate": "2016-11-22",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/chevrolet_camaro.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/chervolet-camaro.jpg",
     "carType": "coupé",
     "features": ["krachtige motor", "aerodynamisch design", "geavanceerd infotainmentsysteem"],
     "manufacturer": {
       "id": 106,
       "name": "Chevrolet",
       "founded": 1911,
-      "logoUrl": "https://example.com/manufacturers/chevrolet.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/chervolet-logo.jpg",
       "isEuropean": false
     }
   },
@@ -113,14 +113,14 @@
     "mileage": 15000,
     "active": true,
     "productionDate": "2022-03-18",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/tesla_model3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/Tesla-model-3.jpg",
     "carType": "sedan",
     "features": ["elektrisch", "autopilot", "minimalistisch design"],
     "manufacturer": {
       "id": 107,
       "name": "Tesla",
       "founded": 2003,
-      "logoUrl": "https://example.com/manufacturers/tesla.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/tesla.png",
       "isEuropean": false
     }
   },
@@ -131,14 +131,14 @@
     "mileage": 50000,
     "active": true,
     "productionDate": "2015-08-12",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/honda_civic.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/Honda-civic.jpg",
     "carType": "sedan",
     "features": ["brandstofefficiënt", "ruim interieur", "geavanceerde veiligheidssystemen"],
     "manufacturer": {
       "id": 108,
       "name": "Honda",
       "founded": 1948,
-      "logoUrl": "https://example.com/manufacturers/honda.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/honda.png",
       "isEuropean": false
     }
   },
@@ -149,14 +149,14 @@
     "mileage": 60000,
     "active": false,
     "productionDate": "2014-06-25",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/toyota_corolla.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/toyota-corola.jpg",
     "carType": "sedan",
     "features": ["betrouwbaar", "economisch", "veiligheidsvoorzieningen"],
     "manufacturer": {
       "id": 109,
       "name": "Toyota",
       "founded": 1937,
-      "logoUrl": "https://example.com/manufacturers/toyota.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/toyota.png",
       "isEuropean": false
     }
   },
@@ -167,14 +167,14 @@
     "mileage": 18000,
     "active": true,
     "productionDate": "2020-12-05",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/porsche_911.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/porsche-911.jpg",
     "carType": "coupé",
     "features": ["hoogwaardige afwerking", "tweezits coupé", "geavanceerde aerodynamica"],
     "manufacturer": {
       "id": 110,
       "name": "Porsche",
       "founded": 1931,
-      "logoUrl": "https://example.com/manufacturers/porsche.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/porsche.png",
       "isEuropean": true
     }
   }

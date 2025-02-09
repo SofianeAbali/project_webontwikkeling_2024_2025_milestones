@@ -1,35 +1,35 @@
 [{"id": 101,
       "name": "Audi",
       "founded": 1909,
-      "logoUrl": "https://example.com/manufacturers/audi.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/audi-logo.jpg",
       "isEuropean": true
 },
 {
     "id": 102,
       "name": "BMW",
       "founded": 1916,
-      "logoUrl": "https://example.com/manufacturers/bmw.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/bmw-logo.jpg",
       "isEuropean": true
 },
 {
       "id": 103,
       "name": "Mercedes-Benz",
       "founded": 1926,
-      "logoUrl": "https://example.com/manufacturers/mercedes.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/Mercedes-logo.jpg",
       "isEuropean": true
 },
 {
       "id": 104,
       "name": "Volkswagen",
       "founded": 1937,
-      "logoUrl": "https://example.com/manufacturers/vw.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/volkswagen-logo.jpg",
       "isEuropean": true
 },
 {
       "id": 106,
       "name": "Chevrolet",
       "founded": 1911,
-      "logoUrl": "https://example.com/manufacturers/chevrolet.png",
+      "logoUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/images/chervolet-logo.jpg",
       "isEuropean": false
 }
 ]
