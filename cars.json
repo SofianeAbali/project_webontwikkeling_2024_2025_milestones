@@ -5,7 +5,7 @@
     "mileage": 45000,
     "active": true,
     "productionDate": "2018-04-10",
-    "imageUrl": "https://raw.githubusercontent.com/SofianeAbali/project_webontwikkeling_2024_2025_milestones/refs/heads/main/cars/audi_a4.jpg",
+    "imageUrl": ,
     "carType": "sedan",
     "features": ["leren bekleding", "panoramisch dak", "navigatiesysteem"],
     "manufacturer": {
